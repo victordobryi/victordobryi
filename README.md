@@ -8,17 +8,22 @@
 
 ---
 
-### Contact information
+## Skills and Proficiency
 
-**Phone:** +375445339728
-
-**E-mail:** kasilkina@mail.ru
-
-**Telegram:** @victordobryi
-
-[My personal website](https://victor-dobryi-portfolio.netlify.app/)
-
-[Linkedin](https://www.linkedin.com/in/victor-kasilkin/)
+![React](https://img.shields.io/badge/-React-fff?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2388db?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-f52011?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-f52011?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-f52011?style=for-the-badge&logo=css)
+![REDUX](https://img.shields.io/badge/-REDUX-1122d6?style=for-the-badge&logo=redux)
+![SASS](https://img.shields.io/badge/-SASS-faf32d?style=for-the-badge&logo=sass)
+![Formik](https://img.shields.io/badge/-FORMIK-faf32d?style=for-the-badge&logo=formik)
+![React-Hook-Form](https://img.shields.io/badge/-React--Hook--Form-f52011?style=for-the-badge&logo=React-Hook-Form)
+![Figma](https://img.shields.io/badge/-FIGMA-f52011?style=for-the-badge&logo=figma)
+![Webpack](https://img.shields.io/badge/-WEBPACK-f52011?style=for-the-badge&logo=webpack)
+![Git](https://img.shields.io/badge/-GIT-faf32d?style=for-the-badge&logo=git)
+![Jest](https://img.shields.io/badge/-JEST-faf32d?style=for-the-badge&logo=jest)
+![React-Testing-Library](https://img.shields.io/badge/-React--Testing--Library-09b00c?style=for-the-badge&logo=React-Testing-Library)
 
 ---
 
@@ -34,22 +39,6 @@ to effectively independently manage independent projects, as well as collaborate
 ## Education:
 
 Graduated from the Belarusian State University of Transport (07-2020)
-
----
-
-## Skills and Proficiency
-
-- React
-- TypeScript
-- JavsScript
-- HTML/CSS (SASS)
-- Redux
-- Git / Github
-- Formik / React-Hook-Form
-- Jest / React-Testing-Library
-- Figma / Photoshop
-- Webpack
-- English ( A2 / B1 )
 
 ---
 
@@ -78,5 +67,19 @@ const getRandomColor = () => {
 | Rolling Scopes School (JS/FE 2020Q3) | 09/2020 - 02/2021 |
 | Rolling Scopes School (JS/FE 2021Q1) | 12/2020 - 07/2021 |
 | Rolling Scopes School (REACT 2021Q3) | 07/2021 - 10/2021 |
+
+---
+
+## Contact information:
+
+**Phone:** +375445339728
+
+**E-mail:** kasilkina@mail.ru
+
+**Telegram:** @victordobryi
+
+[My personal website](https://victor-dobryi-portfolio.netlify.app/)
+
+[Linkedin](https://www.linkedin.com/in/victor-kasilkin/)
 
 ---
