@@ -10,20 +10,20 @@
 
 ## Skills and Proficiency
 
-![React](https://img.shields.io/badge/-React-fff?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2388db?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-f52011?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-faf32d?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-f52011?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-f52011?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-09b00c?style=for-the-badge&logo=css)
 ![REDUX](https://img.shields.io/badge/-REDUX-1122d6?style=for-the-badge&logo=redux)
-![SASS](https://img.shields.io/badge/-SASS-faf32d?style=for-the-badge&logo=sass)
-![Formik](https://img.shields.io/badge/-FORMIK-faf32d?style=for-the-badge&logo=formik)
-![React-Hook-Form](https://img.shields.io/badge/-React--Hook--Form-f52011?style=for-the-badge&logo=React-Hook-Form)
-![Figma](https://img.shields.io/badge/-FIGMA-f52011?style=for-the-badge&logo=figma)
+![SASS](https://img.shields.io/badge/-SASS-fff?style=for-the-badge&logo=sass)
+![Formik](https://img.shields.io/badge/-FORMIK-000?style=for-the-badge&logo=formik)
+![React-Hook-Form](https://img.shields.io/badge/-React--Hook--Form-2388db?style=for-the-badge&logo=React-Hook-Form)
+![Figma](https://img.shields.io/badge/-FIGMA-faf32d?style=for-the-badge&logo=figma)
 ![Webpack](https://img.shields.io/badge/-WEBPACK-f52011?style=for-the-badge&logo=webpack)
-![Git](https://img.shields.io/badge/-GIT-faf32d?style=for-the-badge&logo=git)
-![Jest](https://img.shields.io/badge/-JEST-faf32d?style=for-the-badge&logo=jest)
-![React-Testing-Library](https://img.shields.io/badge/-React--Testing--Library-09b00c?style=for-the-badge&logo=React-Testing-Library)
+![Git](https://img.shields.io/badge/-GIT-09b00c?style=for-the-badge&logo=git)
+![Jest](https://img.shields.io/badge/-JEST-1122d6?style=for-the-badge&logo=jest)
+![React-Testing-Library](https://img.shields.io/badge/-React--Testing--Library-fff?style=for-the-badge&logo=React-Testing-Library)
 
 ---
 
