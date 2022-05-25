@@ -24,10 +24,10 @@
 
 ## About me:
 
-A beginner front end developer with a great desire to develop, improve skills and bring value to the company. Able to
-effectively self-manage during independent projects, as well as collaborate in a team setting.
-
-In my free time, I watch TV shows with my wife, play board games with my friends and do some sports.
+I started programming in 2020. Front-end developer with a technical background. Stack: React/Redux, TS, JS.
+Creating web and mobile applications. Support, optimization, troubleshooting and improvement of websites and applications from concept to deployment.
+I have a great desire to develop, improve my skills and benefit the company. Able
+to effectively independently manage independent projects, as well as collaborate in a team environment.
 
 ---
 
@@ -39,11 +39,14 @@ Graduated from the Belarusian State University of Transport (07-2020)
 
 ## Skills and Proficiency
 
-- HTML/CSS (SASS) /JS
-- TypeScript
 - React
+- TypeScript
+- JavsScript
+- HTML/CSS (SASS)
 - Redux
 - Git / Github
+- Formik / React-Hook-Form
+- Jest / React-Testing-Library
 - Figma / Photoshop
 - Webpack
 - English ( A2 / B1 )
