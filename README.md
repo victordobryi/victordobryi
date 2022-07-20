@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-# Roman
+# Viktar Kasilkin
 ### Frontend Developer
 
 ---
@@ -69,4 +69,16 @@ const getRandomColor = () => {
 
 ---
 
+## Contact information:
 
+**Phone:** +375445339728
+
+**E-mail:** kasilkina@mail.ru
+
+**Telegram:** @victordobryi
+
+[My personal website](https://victor-dobryi-portfolio.netlify.app/)
+
+[Linkedin](https://www.linkedin.com/in/victor-kasilkin/)
+
+---
