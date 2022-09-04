@@ -36,15 +36,15 @@ to effectively independently manage independent projects, as well as collaborate
 ---
 
 ## Work experience:
-Freelance (February 2021 - current)
-*Development of various applications and websites
-*using React, Redux, TypeScript, Javascript, Material UI
-*Interaction and processing of data from the server using FetchAPI, Axios, GraphQL
-*Used Jest to writing Unit tests
-*Cross-browser and adaptive layout
-*Refactoring of someone else's code
-*Editing of existing site pages
-*Implemented new features and more
+**Freelance** (February 2021 - current)
+* Development of various applications and websites
+* using React, Redux, TypeScript, Javascript, Material UI
+* Interaction and processing of data from the server using FetchAPI, Axios, GraphQL
+* Used Jest to writing Unit tests
+* Cross-browser and adaptive layout
+* Refactoring of someone else's code
+* Editing of existing site pages
+* Implemented new features and more
 
 ---
 
