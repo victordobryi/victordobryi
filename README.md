@@ -35,6 +35,19 @@ to effectively independently manage independent projects, as well as collaborate
 
 ---
 
+## Work experience:
+Freelance (February 2021 - current)
+**Development of various applications and websites**
+**using React, Redux, TypeScript, Javascript, Material UI**
+**Interaction and processing of data from the server using FetchAPI, Axios, GraphQL**
+**Used Jest to writing Unit tests**
+**Cross-browser and adaptive layout**
+**Refactoring of someone else's code**
+**Editing of existing site pages**
+**Implemented new features and more**
+
+---
+
 ## Education:
 
 Graduated from the Belarusian State University of Transport (07-2020)
@@ -66,6 +79,7 @@ const getRandomColor = () => {
 | Rolling Scopes School (JS/FE 2020Q3) | 09/2020 - 02/2021 |
 | Rolling Scopes School (JS/FE 2021Q1) | 12/2020 - 07/2021 |
 | Rolling Scopes School (REACT 2021Q3) | 07/2021 - 10/2021 |
+| Rolling Scopes School (REACT 2022Q1) | 04/2022 - 07/2022 |
 
 ---
 
